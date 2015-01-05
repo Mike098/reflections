@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+git ask you to add the file in the repositroy so it can keep track of it and are allowed to add commits
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is what you want to start adding commits to from the working directory which is on your personal computer. Tha value it offers is that you will now be able to keep a history of changes made to it.
