@@ -1,0 +1,37 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+By comparing the two files and showing what was changed really suprised me that it was much easier to see what errors were made and correct them then just looking at the entire file of code
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+by having access to your histroy you can easily grab a certain version of your file and continue from that point instead of having to figure out what you did before, which probably won't be the same, all the revisions hav been made
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+pro:
+you can save when you made a logical change
+won't get weird svae points when stoping to think about your change
+save at any point in the file
+
+cons:
+save at any point in the file
+forget to save when making changes periodically
+wrong save points in the file
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+most likly for faster commiting of the file instead of having to commit to each file seperately, which would take a longer time then just doing in one place.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log displays the history of changes that were made to the file
+
+git diff displays what changes were made in detail from a previous commit
+
+How might using version control make you more confident to make changes that could break something?
+
+By having a previous working version you are able to go back to a previous commit with the working code without worring about the changes that were made after.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Hopefully I can start using it with the new programs that I start working on and use the functionality of it without restraint.
