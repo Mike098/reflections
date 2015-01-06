@@ -9,3 +9,7 @@ staging area is what you want to start adding commits to from the working direct
 How can you use the staging area to make sure you have one commit per logical change?
 
 by adding your file to the staging area you can use git diff or git diff --staged to see what changes you made to the file and if it is a worthy commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+if you want to experiment on your project but don't want to present a project that is not working. Branching off would be a great use for this.
