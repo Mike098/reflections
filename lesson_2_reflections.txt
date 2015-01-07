@@ -17,3 +17,7 @@ if you want to experiment on your project but don't want to present a project th
 How do the diagrams help you visualize the branch structure?
 
 It helps by showing the you the history of what has been done to the project.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The combined efforst of everyone merged into one master file, so as to start there and continue to add more things. The reason to show the diagram in that certain way is to show what is going to be merged and what is not.
