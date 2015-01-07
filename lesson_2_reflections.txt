@@ -21,3 +21,16 @@ It helps by showing the you the history of what has been done to the project.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The combined efforst of everyone merged into one master file, so as to start there and continue to add more things. The reason to show the diagram in that certain way is to show what is going to be merged and what is not.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pros:
+grabs all commits and merges them together
+not having to manually merge each commit
+provide feedback on what is commited
+shows where each commit belongs on the log by time stamp
+
+cons:
+get conflicts and woudl have to resovles yourself along with the person that the conflict is taking place
+don't have as much control on which commits get to be entered
+can cause some issues
