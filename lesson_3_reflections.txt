@@ -11,3 +11,7 @@ Describe the differences between forks, clones, and branches. When would you use
 forks - when you don't have permission to make changes but want to tinker with the repository.
 clones - when you can make changes to the repository having a direct clone can push changes directly to the repository.
 branches - when you want to diviate from the master file but don't want to break the code.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+if the last known state is correctly working.
